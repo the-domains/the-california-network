@@ -1,14 +1,14 @@
-layout_spectrum: 0.3337108783889562
-typography_spectrum: 0.8148112639319152
+layout_spectrum: 0.9262917824089527
+typography_spectrum: 0.9154126395005733
 color:
-  brandStrength: 0.00931067974306643
-  lightness: 0.04491764050908387
-  saturation: 0.6688656306359917
-  rhythmicContrast: 0.445635327603668
+  brandStrength: 0.011913435999304056
+  lightness: 0.8423093594610691
+  saturation: 0.6797634458635002
+  rhythmicContrast: 0.09782406478188932
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
 name: The California Network
